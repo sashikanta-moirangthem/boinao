@@ -13,8 +13,8 @@ function App() {
         <MyLogo className="App-logo" />
         <Hello />
         <Bca />
+        <Weather />
         <Clock />
-        <Weather/>
         {/* <p>
           Edit <code>src/App.js</code> and save to reload.
         </p> 
